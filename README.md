@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Naeem</h1>
-<h3 align="center">A passionate fullStack developer from Cairo</h3>
+<h3 align="center">A passionate fullStack developer from Cairo & Learning AI And Machine Learning</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-na3em101&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-na3em101" /> </p>
 
 - 🔭 I’m currently working on **fullstack dev.**
 
-- 🌱 I’m currently learning **Framework Angular.js**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **GDSC**
+- 👯 I’m looking to collaborate on **GDG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a7med-na3em101](https://github.com/a7med-na3em101)
 
